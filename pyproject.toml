@@ -2,7 +2,7 @@
 name = "pygame-testproject"
 version = "0.1.0"
 description = ""
-authors = ["Julius Dehner <julius.dehner@gmail.com>", "Simon Helfert"]
+authors = ["Julius Dehner <julius.dehner@gmail.com>", "Simon Helfert <helfert-simon@web.de>"]
 license = "GPLv3"
 
 [tool.poetry.dependencies]
